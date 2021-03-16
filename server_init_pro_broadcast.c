@@ -381,4 +381,3 @@ int main(void)
 
 	destroy();
 }
-
