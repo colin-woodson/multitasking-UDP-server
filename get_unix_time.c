@@ -4,8 +4,6 @@
 //#include <time.h> 
 
 
-
-
 int get_unix_time() 
 { 
 	struct timeval timevalue;
