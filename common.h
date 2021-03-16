@@ -27,7 +27,6 @@ typedef struct address_info {
 	device_info_t *address;
 } address_info_t;
 
-
 int get_unix_time();
 
 #endif
