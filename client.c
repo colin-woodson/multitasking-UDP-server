@@ -48,7 +48,7 @@ int main()
         if(size < 0)
             perror("sendto");
 
-//	printf("i = %d\n", i++);
+	//printf("i = %d\n", i++);
 	//sleep(1);
     }
 
